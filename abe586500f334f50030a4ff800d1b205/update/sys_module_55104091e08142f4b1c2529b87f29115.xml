@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "serialNumber": "urn:uuid:ac8ab4d6-6878-4fca-b6b9-e159b6bc641d",
+  "metadata": {
+    "timestamp": "2026-10-04T06:04:06.767Z",
+    "tools": {
+      "components": [
+        {
+          "type": "library",
+          "name": "sdk-build-plugins",
+          "group": "@servicenow",
+          "version": "4.13.3",
+          "author": "ServiceNow"
+        }
+      ]
+    },
+    "component": {
+      "type": "application",
+      "name": "x-1758763-game",
+      "version": "1.0.0",
+      "bom-ref": "pkg:servicenow/x-1758763-game@1.0.0?sys_scope_id=abe586500f334f50030a4ff800d1b205",
+      "description": "Gaming page",
+      "licenses": [
+        {
+          "license": {
+            "name": "UNLICENSED"
+          }
+        }
+      ],
+      "purl": "pkg:servicenow/x-1758763-game@1.0.0?sys_scope_id=abe586500f334f50030a4ff800d1b205"
+    }
+  },
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "pkg:servicenow/x-1758763-game@1.0.0?sys_scope_id=abe586500f334f50030a4ff800d1b205"
+    }
+  ]
+}]]></content>
+        <external_source>false</external_source>
+        <path>/global/x-1758763-game/1.0.0/bom.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-04 04:18:31</sys_created_on>
+        <sys_id>55104091e08142f4b1c2529b87f29115</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>/global/x-1758763-game/1.0.0/bom.json</sys_name>
+        <sys_package display_value="Game" source="global">abe586500f334f50030a4ff800d1b205</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Game">abe586500f334f50030a4ff800d1b205</sys_scope>
+        <sys_update_name>sys_module_55104091e08142f4b1c2529b87f29115</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-04 04:18:31</sys_updated_on>
+    </sys_module>
+</record_update>
