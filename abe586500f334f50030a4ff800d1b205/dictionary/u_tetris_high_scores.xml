@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2ea09a940f734f50030a4ff800d1b2dd" label="Tetris High Scores" max_length="40" name="u_tetris_high_scores" type="collection">
+        <element default="1" label="Level" mandatory="true" max_length="40" name="u_level" type="integer"/>
+        <element display="true" label="Player Name" mandatory="true" max_length="100" name="u_player_name" type="string"/>
+        <element default="0" label="Score" mandatory="true" max_length="40" name="u_score" type="integer"/>
+    </element>
+</database>

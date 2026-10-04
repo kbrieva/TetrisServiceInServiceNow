@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tetris">1cc5a7b39d57483d9ed4b8f095205c5c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title/>
+        <mobile_view_name/>
+        <name/>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>tetris_game.do</query>
+        <report/>
+        <require_confirmation>false</require_confirmation>
+        <roles/>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-04 04:18:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a078dcf2285347e0b9191245a7c5210f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Play Tetris</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Game" source="global">abe586500f334f50030a4ff800d1b205</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Game">abe586500f334f50030a4ff800d1b205</sys_scope>
+        <sys_update_name>sys_app_module_a078dcf2285347e0b9191245a7c5210f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-04 04:18:30</sys_updated_on>
+        <timeline_page/>
+        <title>Play Tetris</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
